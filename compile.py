@@ -3,7 +3,7 @@
 import re, sys, os, getopt
 from random import sample
 
-ntickets = 14
+ntickets = 22
 nquestions = 5
 
 texheader='\\documentclass[12pt]{extarticle}\n'\
